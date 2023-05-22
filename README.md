@@ -10,7 +10,7 @@ Esta parte describe la actividad. Esta actividad ejemplo consiste en resolver la
 classDiagram
       MatrizFracciones --> "2..*" Fraccion
       
-      Fraccion: num
+      Fraccion: nume
       Fraccion: den
 ```
 
